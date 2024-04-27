@@ -12,6 +12,7 @@ This code implements a signal recovery algorithm for a square wave signal.
 3. Run the script using a Python interpreter.
 
 ## Simulation Result
+![Wave Simulation](https://github.com/RaymonDev/Gerstner-Wave-Simulation-Python/blob/main/wave.gif)
 
 ## License
 This project is licensed under the MIT License.
